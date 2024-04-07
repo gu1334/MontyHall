@@ -2,6 +2,11 @@
 
 Este é um jogo de simulação do famoso problema Monty Hall, implementado em Java. No jogo Monty Hall, o jogador faz uma escolha entre três portas, uma das quais esconde um prêmio. Após a escolha inicial, o apresentador abre uma das portas restantes que não contém o prêmio, oferecendo ao jogador a opção de trocar ou manter sua escolha.
 
+<div align="center">
+  <h2>Exemplo de Jogo Monty Hall:</h2>
+  <img src="https://example.com/your-gif-url.gif" alt="Exemplo de Jogo Monty Hall" width="500"/>
+</div>
+
 ## Como Jogar
 
 1. **Escolha uma Porta:** O jogador escolhe uma porta entre as opções 1, 2 ou 3.
