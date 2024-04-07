@@ -9,6 +9,15 @@ Este é um jogo de simulação do famoso problema Monty Hall, implementado em Ja
 3. **Trocar de Porta (Opcional):** O jogador tem a opção de trocar sua escolha inicial por uma das portas restantes.
 4. **Revelar o Resultado:** O jogo revela se a porta escolhida pelo jogador contém o prêmio ou não.
 
+   ## Como Jogar Com interface grafica
+   
+1. Ao iniciar o jogo, uma janela será exibida com um botão "Jogar".
+2. Clique no botão "Jogar" para iniciar o jogo.
+3. Escolha uma porta (1, 2 ou 3) digitando o número desejado.
+4. O apresentador abrirá uma porta sem prêmio.
+5. Você terá a opção de mudar de porta ou manter sua escolha original.
+6. Após fazer a escolha final, o resultado será exibido em uma caixa de diálogo.
+
 ## Funcionalidades Implementadas
 
 - Geração aleatória da porta premiada.
