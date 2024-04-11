@@ -4,7 +4,7 @@ Este é um jogo de simulação do famoso problema Monty Hall, implementado em Ja
 
 <div align="center">
   <h2>Exemplo de Jogo Monty Hall:</h2>
-  <img src="https://github.com/gu1334/MontyHall/blob/main/Gravando%202024-04-07%20170557.mp4" alt="Exemplo de Jogo Monty Hall" width="500"/>
+<img width="400" src="https://github.com/gu1334/MontyHall/blob/main/gifmonty.gif">
 </div>
 
 ## Como Jogar
